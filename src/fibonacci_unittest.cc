@@ -60,6 +60,8 @@ namespace {
     using std::istringstream;
     using std::ostringstream;
     using std::string;
+	
+	typedef uint64_t uint;
 
     using namespace ::testing_internal;
 
